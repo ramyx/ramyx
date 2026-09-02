@@ -151,18 +151,36 @@ Raw SQL, no ORM — `pg` and `zod` are the only runtime dependencies.
 
 ---
 
-### GitHub Activity
+### At a Glance
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramyx&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramyx&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyx&layout=compact&hide_border=true&theme=github_dark&langs_count=8">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyx&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages">
-  </picture>
+  <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Framyx&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&color=181717&labelColor=181717">
+  <img alt="Followers" src="https://img.shields.io/github/followers/ramyx?style=for-the-badge&logo=github&color=0A66C2&labelColor=181717">
+  <img alt="Stars on material-dashboard-reactts" src="https://img.shields.io/github/stars/ramyx/material-dashboard-reactts?style=for-the-badge&logo=github&label=top%20repo%20stars&color=E3B341&labelColor=181717">
 </p>
+
+<p align="center">
+  <img alt="yanapaq last commit" src="https://img.shields.io/github/last-commit/ramyx/yanapaq?style=flat-square&logo=git&logoColor=white&label=yanapaq">
+  <img alt="x-tweet-scraper last commit" src="https://img.shields.io/github/last-commit/ramyx/x-tweet-scraper?style=flat-square&logo=git&logoColor=white&label=x-tweet-scraper">
+  <img alt="baselabs-challenge last commit" src="https://img.shields.io/github/last-commit/ramyx/baselabs-challenge?style=flat-square&logo=git&logoColor=white&label=baselabs-challenge">
+</p>
+
+<!--
+  Stats cards from github-readme-stats are disabled: the public instance
+  (github-readme-stats.vercel.app) was returning HTTP 503 and rendered as broken
+  images. Uncomment the block below if the service comes back.
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramyx&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramyx&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub stats">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyx&layout=compact&hide_border=true&theme=github_dark&langs_count=8">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyx&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages">
+    </picture>
+  </p>
+-->
 
 ---
 
