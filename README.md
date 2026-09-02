@@ -136,12 +136,14 @@ them by IP and MAC.
 </td>
 <td width="50%" valign="top">
 
-#### 🎵 [musicfy](https://github.com/ramyx/musicfy-nestjs)
+#### 🧾 [baselabs-challenge](https://github.com/ramyx/baselabs-challenge)
 
-Full-stack music platform — [NestJS backend](https://github.com/ramyx/musicfy-nestjs) and
-[React frontend](https://github.com/ramyx/musicfy-reactjs).
+Policy administration slice: prorates a mid-term endorsement to the cent, posts balanced
+double-entry ledger effects, and keeps an append-only hash-chained policy history.
 
-`NestJS` `React` `TypeScript`
+Raw SQL, no ORM — `pg` and `zod` are the only runtime dependencies.
+
+`TypeScript` `Next.js` `PostgreSQL`
 
 </td>
 </tr>
